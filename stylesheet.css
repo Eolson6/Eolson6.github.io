@@ -12,22 +12,22 @@ div {boarder-style:
 
 
 h3 {
-	text-align: left;
-  font famly: Arial;
+	
+  font-famly: Arial, Helvetica, sans-serif;
 	color: black;
 	font-size: 18px;
 }
 	
 h4 {
 	text-align: left; 
-  font famly: Arial, Helvetica, sans-serif;
+  font-famly: Arial, Helvetica, sans-serif;
 	color: black;
 	font-size: 14px;
 	}
 	
 h5 {
 	text-align: right;
-  font famly: Arial, Helvetica, sans-serif;
+  font-famly: Arial, Helvetica, sans-serif;
 	color: black;
 	font-size: 12px;
 	}
