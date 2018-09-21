@@ -16,21 +16,25 @@ div {
 
 h3 {
 	color: black;
-	font-size: 18px;
+	font-size: 18px;		
+        font-family: Calibri;        		
 }
 	
 h4 {
 	color: black;
 	font-size: 14px;
+        font-family: Calibri;        		
 	}
 	
 h5 {
 	color: black;
 	font-size: 12px;
+	font-family: Calibri;
+	
 	}
 	
 p {
-	text-align: left;
+	text-align: right;
 	font-family: calibri;
 	}
 hr {
