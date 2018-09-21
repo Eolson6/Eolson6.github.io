@@ -5,10 +5,11 @@ body {
 	width: 100%
 }
 
-div {boarder-style:
+div {
 	border-style: solid;
 	border-width: 3px;
 	border width:115px;
+}
 
 
 h3 {
@@ -26,9 +27,9 @@ h5 {
 	font-size: 12px;
 	}
 	
-	p {
-		text-align: left;
-		font-family: Arial;
+p {
+	text-align: left;
+	font-family: Arial;
 	}
 hr {
 	"height:2px;
