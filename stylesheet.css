@@ -7,19 +7,22 @@ body {
 
 
 h3 {
-  font famly: Arial, Helvetica, sans-serif
+	text-align: left;
+  font famly: Arial, Helvetica, sans-serif;
 	color: black;
 	font-size: 18px;
 }
 	
 h4 {
-  font famly: Arial, Helvetica, sans-serif
+	text-align: left; 
+  font famly: Arial, Helvetica, sans-serif;
 	color: black;
 	font-size: 14px;
 	}
 	
 h5 {
-  font famly: Arial, Helvetica, sans-serif
+	text-align: right;
+  font famly: Arial, Helvetica, sans-serif;
 	color: black;
 	font-size: 12px;
 	}
