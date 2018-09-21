@@ -9,6 +9,7 @@ div {
 	border-style: solid;
 	border-width: 2px;
 	border width:45px;
+	padding: 20 px;
 }
 
 
@@ -51,11 +52,9 @@ border {
     <div class="bordered">
 
 img {
-    border: 1px solid #ddd;
+    border: 1px;
     border-radius: 4px;
-    padding: 5px;
-    width: 115px;
-    height: 115px;
+    padding: 3px;
     float: left;
 }
 
