@@ -18,6 +18,12 @@ h4 {
 	font-size: 12px;
 	}
 	
+h5 {
+  font famly: Arial, serif;
+	color: black;
+	font-size: 10px;
+	}
+	
 hr {
 	"height:2px;
 	border-width:0;
@@ -58,7 +64,10 @@ img {
                              <h5>Erin Olson<br>6400 York Ave. S #603<br>Edina, MN<br>erineolson15@gmail.com</h5>
                              </div>                                                           
                              </header>
-                             <br>
+                            <br>
+.contact {
+	text align: right;
+}
 	
 #references {
 	 font famly: Calibri, serif;
