@@ -7,21 +7,21 @@ body {
 
 
 h3 {
-  font famly: Arial, serif;
+  font famly: Arial, Helvetica, sans-serif
 	color: black;
-	font-size: 16px;
+	font-size: 18px;
 }
 	
 h4 {
-  font famly: Arial, serif;
+  font famly: Arial, Helvetica, sans-serif
 	color: black;
-	font-size: 12px;
+	font-size: 14px;
 	}
 	
 h5 {
-  font famly: Arial, serif;
+  font famly: Arial, Helvetica, sans-serif
 	color: black;
-	font-size: 10px;
+	font-size: 12px;
 	}
 	
 hr {
@@ -31,8 +31,7 @@ hr {
 	background-color:gray;
 	}
 
-  <style>
-  .bordered {
+#.border {
     width: 850px;
     height: 1400px;
     padding: 20px;
