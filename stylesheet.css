@@ -7,19 +7,16 @@ body {
 
 
 h3 {
-  <font famly: Calibri, serif;
+  font famly: Calibri, serif;
 	color: black;
 	font-size: 14px;
+}
 	
 h4 {
-  <font famly: Calibri, serif;
+  font famly: Calibri, serif;
 	color: black;
 	font-size: 12px;
-	
-h4 {
-  <font famly: Calibri, serif;
-	color: black;
-	font-size: rem;
+	}
 	
 hr {
 	"height:2px;
@@ -62,3 +59,9 @@ img {
                              </header>
                              <br>
 	
+#references {
+text-align: center;
+	 font famly: Calibri, serif;
+	color: black;
+	font-size: 12px;
+}
