@@ -7,13 +7,13 @@ body {
 
 
 h3 {
-  font famly: Calibri, serif;
+  font famly: Arial, serif;
 	color: black;
-	font-size: 14px;
+	font-size: 16px;
 }
 	
 h4 {
-  font famly: Calibri, serif;
+  font famly: Arial, serif;
 	color: black;
 	font-size: 12px;
 	}
@@ -32,6 +32,7 @@ hr {
     padding: 20px;
     border: 1px solid black;
     border-radius: 8px;
+}
 
 
 </style>
@@ -60,8 +61,8 @@ img {
                              <br>
 	
 #references {
-text-align: center;
 	 font famly: Calibri, serif;
 	color: black;
 	font-size: 12px;
+	text-align: center;
 }
