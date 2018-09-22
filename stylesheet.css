@@ -25,7 +25,7 @@ h5 {
 	}
 	
 p {
-	font-family: calibri;
+	font-family: Calibri;
 	}
 hr {
 	"height:3px;
@@ -47,9 +47,9 @@ hr {
     padding: 3px;
     float: left;
 	 
-#references {
-	font family: calibri;
+h6 {
 	color: black;
-	font size: 12px;
+	font-size: 12px
+	font-family: Calibri;
 	text align: center;
 	}
