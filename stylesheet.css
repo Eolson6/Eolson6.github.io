@@ -51,8 +51,9 @@ ul {
     float: left;
 	 
 h6 {
-	color: black;
+	margin: 0 auto;
+  text-align: center
+	  color: black;
 	font-size: 12px
 	font-family: Calibri;
-	text-align: center;
 	}
