@@ -47,10 +47,9 @@ hr {
     padding: 3px;
     float: left;
 	 
-.contact {
-	text align: right;
-}
-	
-.center {
-	text align:center;
-}
+#references {
+	font family: calibri;
+	color: black;
+	font size: 12px;
+	text align: center;
+	}
