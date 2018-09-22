@@ -28,7 +28,7 @@ p {
 	font-family: calibri;
 	}
 hr {
-	"height:2px;
+	"height:3px;
 	color:gray;
 	
 	}
@@ -56,5 +56,6 @@ ul {
 	
 .references {
 	font-size: 12px;
+	font-family: calibri;
 	text-align: center;
 }
