@@ -32,6 +32,9 @@ hr {
 	color:gray;
 	
 	}
+ul {
+	font-family: Calibri;
+}
 
 .border-style { 
     width: 850px;
@@ -51,5 +54,5 @@ h6 {
 	color: black;
 	font-size: 12px
 	font-family: Calibri;
-	text align: center;
+	text-align: center;
 	}
