@@ -51,6 +51,11 @@ ul {
     float: left;
 	 
 h6 {
+	text-align: right; 
+    display: inline;    
+/* No change */
+}
+	
 	margin: 0 auto;
   text-align: center
 	  color: black;
