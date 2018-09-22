@@ -50,10 +50,8 @@ ul {
     padding: 3px;
     float: left;
 	 
-h6 {
-	text-align: right; 
+h6 { 
     display: inline;    
-/* No change */
 }
 	
 	margin: 0 auto;
