@@ -23,10 +23,6 @@ h5 {
 	font family: Calibri;
 	text-align: right;
 	}
-
-h6 {
-	text-align: center;
-}
 	
 p {
 	font-family: calibri;
@@ -55,7 +51,7 @@ hr {
 	text align: right;
 }
 	
-.references {
+#references {
 	font-famly: Calibri;
 	color: black;
 	font-size: 12px;
