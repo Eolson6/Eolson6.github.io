@@ -35,6 +35,9 @@ hr {
 	color:gray;
 	background-color:gray;
 	}
+li {
+	font family: Calibri;
+}
 
 .border-style { 
     width: 850px;
