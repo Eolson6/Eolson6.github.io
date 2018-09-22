@@ -1,7 +1,6 @@
 body {
 	height: 100%;
 	margin: 0;
-	text-align: left;
 	width: 100%
         font family: Calibri;			
 }
@@ -35,7 +34,7 @@ hr {
 	color:gray;
 	background-color:gray;
 	}
-li {
+ul {
 	font family: Calibri;
 }
 
@@ -48,7 +47,7 @@ li {
 }
 
 img {
-    border: 1px; solid black
+    border: 1px solid black;
     border-radius: 4px;
     padding: 3px;
     float: left;
