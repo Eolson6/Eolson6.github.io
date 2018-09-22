@@ -32,9 +32,6 @@ hr {
 	color:gray;
 	
 	}
-ul {
-	font-family: calibri;
-}
 
 .border-style { 
     width: 850px;
@@ -55,7 +52,7 @@ ul {
 }
 	
 .references {
-	text align: center;
+	text-align: center;
 	font-family: calibri;
 	font-size: 12px;
 }
