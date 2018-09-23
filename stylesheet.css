@@ -53,9 +53,9 @@ ul {
 
 .references {
   text-align: center;
+	font-family: calibri;
 }
 
 .center {
-  font-family: calibri;
   display: inline-block;
 }
