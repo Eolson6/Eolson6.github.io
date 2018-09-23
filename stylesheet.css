@@ -27,11 +27,12 @@ h5 {
 p {
 	font-family: Calibri;
 	}
+
 hr {
 	"height:3px;
 	color:gray;
+}
 	
-	}
 ul {
 	font-family: Calibri;
 }
@@ -53,10 +54,10 @@ ul {
 
 .references {
   text-align: center;
-	font-family: Calibri;
+  font-family: Calibri;
 }
 
 .center {
   display: inline-block;
-	font-family: Calibri;
+  font-family: Calibri;
 }
