@@ -50,3 +50,12 @@ ul {
     padding: 3px;
     float: left;
 }
+
+.references {
+  text-align: center;
+}
+
+.center {
+  font-family: calibria;
+  display: inline-block;
+}
